@@ -5,8 +5,8 @@ import json
 app = Flask(__name__)
 
 # REPLACE THESE WITH YOUR ACTUAL CREDENTIALS
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"
-CHAT_ID = "YOUR_CHAT_ID_HERE"
+BOT_TOKEN = "8893817787:AAGrvjQExlWWfZ6kRvI_BzjIOku2TmF1-VM"
+CHAT_ID = "8893817787"
 
 TELEGRAM_API_URL = f"https://api.telegram.org/bot{BOT_TOKEN}/sendMessage"
 
